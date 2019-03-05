@@ -1,0 +1,2 @@
+python webcam.py --filter HSV --webcam
+sudo modprobe bcm2835-v4l2
